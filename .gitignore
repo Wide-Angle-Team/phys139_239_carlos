@@ -142,3 +142,4 @@ syllabus/syllabus.pdf
 *.fdb_latexmk
 *.bak0
 notebooks/_build
+*.h5
